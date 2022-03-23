@@ -1,0 +1,1 @@
+"{:item=>{\"id\"=>\"18\", \"joke\"=>\"I went for a job interview today... The interviewer said to me, What would you say your greatest weakness is? I said, I think Id have to say my listening skills are my greatest strength.\"}, :consumed_capacity=>nil}"
